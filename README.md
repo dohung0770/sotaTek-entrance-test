@@ -1,7 +1,20 @@
-# sotaTek-entrance-test
-Sota Tek Entrance Test repo
+# Sota Tek Entrance Test
+
+- Efforts: 7 hours (working hours)
+- Need Improvement:
+   + Drag & drop to scroll image
+   + All positions of change direction buttons are fixed with code, need to be more flexibity to adapt more kinds of images, scenarios
+   + Moving forward effect when changing direction
+   + More friendly user interface
 
 # React + TypeScript + Vite
+
+- Setup & run:
+   + npm install
+   + npm run dev
+
+- Testing:
+   + npm run test
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
